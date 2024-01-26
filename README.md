@@ -29,8 +29,10 @@ The extension will fetch playlist details and start downloading each video in th
 
 ## Technologies Used
   1.HTML, CSS, JavaScript
+  
   2.YouTube Data API
+  
   3.ytdl-core for downloading YouTube videos
 
-Demo : 
+# Demo : 
 ![](https://github.com/srxvathsav/youtube-playlist-downloader/blob/main/demo.gif)
