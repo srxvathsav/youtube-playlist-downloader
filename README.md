@@ -1,2 +1,1 @@
-"# youtube-playlist-downloader" 
-"# youtube-playlist-downloader" 
+![]([https://github.com/Your_Repository_Name/Your_GIF_Name.gif](https://github.com/srxvathsav/youtube-playlist-downloader/blob/main/demo.gif)https://github.com/srxvathsav/youtube-playlist-downloader/blob/main/demo.gif)
