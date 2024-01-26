@@ -1,0 +1,8 @@
+.form-control {
+    width: 110px;
+    border-radius: 5px;
+}
+
+form {
+    display: flex;
+}
