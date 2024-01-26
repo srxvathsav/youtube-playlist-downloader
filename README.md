@@ -1,5 +1,8 @@
 # Playlist Downloader Chrome Extension
 
+# Demo : 
+![](https://github.com/srxvathsav/youtube-playlist-downloader/blob/main/demo.gif)
+
 ## Overview
 The Playlist Downloader Chrome Extension is a simple tool that allows users to download all the videos in a YouTube playlist.
 
@@ -34,5 +37,3 @@ The extension will fetch playlist details and start downloading each video in th
   
   3.ytdl-core for downloading YouTube videos
 
-# Demo : 
-![](https://github.com/srxvathsav/youtube-playlist-downloader/blob/main/demo.gif)
